@@ -1,0 +1,16 @@
+I am writing this article to demonstrate the creation of a real-world Crowdsale Smart Contract with the following improvements/characteristics:
+
+A Mintable ERC20 token where total supply increases as people purchase the tokens
+A refundable crowdsale with a goal and hard cap
+Presale support
+Ability to offer Presale discount
+Security
+
+Here are some of the tools we are going to use:
+
+node 8 & npm
+Truffle Framework
+Ganache
+Open Zeppelin
+MetaMask
+
